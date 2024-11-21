@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<golem>
+  <data>
+    <item aspect=".aspect" data_index="0" handler="ContactModel+ContactModel_RobotPUT3F" label="model" model=".model" prefix="-item-model-1">
+      <query selectors="" type="Any"></query>
+    </item>
+  </data>
+</golem>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<golem>
+  <data>
+    <item cloud=".pcd" cluster=".cluster" handler="Scene+SceneTraining_RobotPUT3F" label="holder_paper-side_1r" prefix="-item-holder_paper-side_1r-1" time_stamp="0">
+      <config c1="0.037546" c10="-0.0223605" c11="0" c12="0" c13="-1.58378" c14="0.0116886" c15="0.0219573" c16="0" c17="0" c18="0.15816" c19="-0.22843" c2="-0.611152" c20="0" c21="0" c3="0.105719" c4="-2.54722" c5="0.0650448" c6="1.93842" c7="-1.28994" c8="1.57043" c9="0.210509" dim="21" m11="0.179027" m12="0.983844" m13="0.000420617" m21="0.983844" m22="-0.179027" m23="0.000159743" m31="0.000232464" m32="0.000385223" m33="-1" planner_index="0" v1="0.358616" v2="0.0576789" v3="0.577898"></config>
+      <feature3d type="curvature"></feature3d>
+      <frame>
+        <model></model>
+        <motion></motion>
+      </frame>
+    </item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="holder_paper-side_trj" path_position="0.8" prefix="-item-holder_paper-side_trj-1" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="holder_paper-side_trj_opt" path_position="1" prefix="-item-holder_paper-side_trj_opt-1" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+    <item cloud=".pcd" cluster=".cluster" handler="Scene+SceneTraining_RobotPUT3F" label="holder_paper_0r" prefix="-item-holder_paper_0r-1" time_stamp="0">
+      <config c1="0.140054" c10="-0.0758019" c11="0" c12="0" c13="-1.58314" c14="0.0688093" c15="-0.131419" c16="0" c17="0" c18="0.159683" c19="-0.238489" c2="-0.660903" c20="0" c21="0" c3="-0.0891591" c4="-2.00941" c5="-0.0558696" c6="1.35128" c7="-1.34963" c8="1.55908" c9="0.205194" dim="21" m11="0.163041" m12="0.986619" m13="0.000500974" m21="0.986619" m22="-0.163041" m23="0.000190994" m31="0.000270118" m32="0.00046313" m33="-1" planner_index="0" v1="0.317487" v2="-0.00440975" v3="0.797142"></config>
+      <feature3d type="curvature"></feature3d>
+      <frame>
+        <model></model>
+        <motion></motion>
+      </frame>
+    </item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="holder_paper_trj" path_position="0.7" prefix="-item-holder_paper_trj-1" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="holder_paper_trj_opt" path_position="1" prefix="-item-holder_paper_trj_opt-1" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+  </data>
+</golem>

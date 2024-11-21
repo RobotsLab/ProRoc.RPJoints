@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<golem>
+  <data>
+    <item cloud="" handler="Image+ImageDemo_RobotPUT3F" image=".jpg" label="image" mesh="" prefix="-item-image-1" time_stamp="1060.71">
+      <config c1="-7.28942e-07" c10="-0.0791874" c11="2.03851e-320" c12="8.74002e-321" c13="-0.14279" c14="0.019095" c15="-0.171069" c16="1.54643e-320" c17="6.63036e-321" c18="0.161361" c19="-0.236017" c2="-0.785404" c20="2.98569e-319" c21="1.27963e-319" c3="4.03989e-05" c4="-2.05614" c5="8.06534e-06" c6="1.27073" c7="-0.884025" c8="-0.0128235" c9="0.183837" dim="21" m11="0.634021" m12="0.773316" m13="-7.97658e-06" m21="0.773316" m22="-0.634021" m23="-2.08617e-05" m31="-2.119e-05" m32="7.05835e-06" m33="-1" planner_index="0" v1="0.265347" v2="2.11395e-05" v3="0.807095"></config>
+      <extrinsic local="0" m11="-0.570397" m12="0.549017" m13="-0.610924" m21="0.809769" m22="0.251315" m23="-0.530203" m31="-0.137555" m32="-0.797133" m33="-0.587926" v1="0.861605" v2="0.428257" v3="0.698973"></extrinsic>
+      <intrinsic cx="632.768" cy="387.313" f="6" fx="895.707" fy="897.884" h="720" k1="0.127399" k2="-0.305454" k3="0.0645557" k4="0" k5="0" k6="0" p1="0.000821212" p2="0.00209344" w="1280">
+        <debug info="Reprojection_error={0.263433, (#1:0.230763, #2:0.242939, #3:0.257347, #4:0.269143, #5:0.321208, #6:0.231207, #7:0.228581, #8:0.283973, #9:0.250132, #10:0.297113, #11:0.234032, #12:0.312706, #13:0.241465, )} [pixels]"></debug>
+      </intrinsic>
+      <model_frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></model_frame>
+    </item>
+    <item cloud=".pcd" handler="Image+ImageDemo_RobotPUT3F" image=".jpg" label="image" mesh="" prefix="-item-image-2" time_stamp="1061.75">
+      <config c1="3.38139e-06" c10="-0.0797537" c11="2.47033e-323" c12="2.47033e-323" c13="-0.143396" c14="0.0191847" c15="-0.171586" c16="2.47033e-323" c17="2.47033e-323" c18="0.162655" c19="-0.235751" c2="-0.785397" c20="2.91499e-322" c21="1.23516e-322" c3="3.76903e-05" c4="-2.05618" c5="1.64809e-06" c6="1.27073" c7="-0.884022" c8="-0.0124697" c9="0.183268" dim="21" m11="0.634022" m12="0.773315" m13="-5.34766e-05" m21="0.773315" m22="-0.634022" m23="-2.50782e-05" m31="-5.32987e-05" m32="-2.54541e-05" m33="-1" planner_index="0" v1="0.265356" v2="2.06468e-05" v3="0.807078"></config>
+      <extrinsic local="0" m11="-0.760628" m12="0.274787" m13="-0.588163" m21="0.647647" m22="0.383569" m23="-0.658352" m31="0.0446944" m32="-0.881684" m33="-0.469719" v1="0.709107" v2="0.384061" v3="0.406516"></extrinsic>
+      <intrinsic cx="632.768" cy="387.313" f="6" fx="895.707" fy="897.884" h="720" k1="0.127399" k2="-0.305454" k3="0.0645557" k4="0" k5="0" k6="0" p1="0.000821212" p2="0.00209344" w="1280">
+        <debug info="Reprojection_error={0.263433, (#1:0.230763, #2:0.242939, #3:0.257347, #4:0.269143, #5:0.321208, #6:0.231207, #7:0.228581, #8:0.283973, #9:0.250132, #10:0.297113, #11:0.234032, #12:0.312706, #13:0.241465, )} [pixels]"></debug>
+      </intrinsic>
+      <model_frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></model_frame>
+    </item>
+    <item cloud=".pcd" cluster=".cluster" handler="Scene+Scene_RobotPUT3F" label="process" prefix="-item-process-1" time_stamp="0">
+      <config c1="3.38139e-06" c10="-0.0797537" c11="2.47033e-323" c12="2.47033e-323" c13="-0.143396" c14="0.0191847" c15="-0.171586" c16="2.47033e-323" c17="2.47033e-323" c18="0.162655" c19="-0.235751" c2="-0.785397" c20="2.91499e-322" c21="1.23516e-322" c3="3.76903e-05" c4="-2.05618" c5="1.64809e-06" c6="1.27073" c7="-0.884022" c8="-0.0124697" c9="0.183268" dim="21" m11="0.634022" m12="0.773315" m13="-5.34766e-05" m21="0.773315" m22="-0.634022" m23="-2.50782e-05" m31="-5.32987e-05" m32="-2.54541e-05" m33="-1" planner_index="0" v1="0.265356" v2="2.06468e-05" v3="0.807078"></config>
+      <feature3d type="curvature"></feature3d>
+      <frame>
+        <model></model>
+        <motion></motion>
+      </frame>
+    </item>
+    <item cluster_index="0" config_index="8" handler="ContactQuery+ContactQuery_RobotPUT3F" label="query" prefix="-item-query-1" query=".query"></item>
+    <item cloud="" frame=".frame" frame_index="897" handler="Video+Video" label="trajectory-1261.128-KinectAzure+KinectAzureLeft_RobotPUT3F" prefix="-item-trajectory-1261.128-KinectAzure+KinectAzureLeft_RobotPUT3F-1" use_cloud_frame="0" video=".mp4">
+      <extrinsic local="0" m11="0.737607" m12="0.265692" m13="-0.62076" m21="0.671763" m22="-0.381787" m23="0.634802" m31="-0.0683365" m32="-0.885238" m33="-0.460091" v1="0.701585" v2="-0.37069" v3="0.413116"></extrinsic>
+      <intrinsic cx="646.676" cy="344.145" f="6" fx="924.348" fy="924.921" h="720" k1="0.141206" k2="-0.370871" k3="0.22551" k4="0" k5="0" k6="0" p1="-0.000382002" p2="-0.000436589" w="1280">
+        <debug info=""></debug>
+      </intrinsic>
+    </item>
+    <item cloud="" frame=".frame" frame_index="897" handler="Video+Video" label="trajectory-1261.128-KinectAzure+KinectAzureRight_RobotPUT3F" prefix="-item-trajectory-1261.128-KinectAzure+KinectAzureRight_RobotPUT3F-1" use_cloud_frame="0" video=".mp4">
+      <extrinsic local="0" m11="-0.760628" m12="0.274787" m13="-0.588163" m21="0.647647" m22="0.383569" m23="-0.658352" m31="0.0446944" m32="-0.881684" m33="-0.469719" v1="0.709107" v2="0.384061" v3="0.406516"></extrinsic>
+      <intrinsic cx="632.768" cy="387.313" f="6" fx="895.707" fy="897.884" h="720" k1="0.127399" k2="-0.305454" k3="0.0645557" k4="0" k5="0" k6="0" p1="0.000821212" p2="0.00209344" w="1280">
+        <debug info="Reprojection_error={0.263433, (#1:0.230763, #2:0.242939, #3:0.257347, #4:0.269143, #5:0.321208, #6:0.231207, #7:0.228581, #8:0.283973, #9:0.250132, #10:0.297113, #11:0.234032, #12:0.312706, #13:0.241465, )} [pixels]"></debug>
+      </intrinsic>
+    </item>
+    <item cloud="" frame=".frame" frame_index="908" handler="Video+Video" label="trajectory-1261.128-OpenGL+OpenGL" prefix="-item-trajectory-1261.128-OpenGL+OpenGL-1" use_cloud_frame="0" video=".mp4">
+      <extrinsic local="1" m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></extrinsic>
+      <intrinsic cx="319.058" cy="243.402" f="6" fx="574.081" fy="573.947" h="720" k1="-0.0335071" k2="0.0243792" k3="0" k4="0" k5="0" k6="0" p1="0.000356354" p2="-0.000791655" w="1280">
+        <debug info=""></debug>
+      </intrinsic>
+    </item>
+    <item cloud="" frame=".frame" frame_index="896" handler="Video+Video" label="trajectory-1261.128-RealSense+RealSenseExtern_RobotPUT3F" prefix="-item-trajectory-1261.128-RealSense+RealSenseExtern_RobotPUT3F-1" use_cloud_frame="0" video=".mp4">
+      <extrinsic local="0" m11="-0.570397" m12="0.549017" m13="-0.610924" m21="0.809769" m22="0.251315" m23="-0.530203" m31="-0.137555" m32="-0.797133" m33="-0.587926" v1="0.861605" v2="0.428257" v3="0.698973"></extrinsic>
+      <intrinsic cx="632.768" cy="387.313" f="6" fx="895.707" fy="897.884" h="720" k1="0.127399" k2="-0.305454" k3="0.0645557" k4="0" k5="0" k6="0" p1="0.000821212" p2="0.00209344" w="1280">
+        <debug info="Reprojection_error={0.263433, (#1:0.230763, #2:0.242939, #3:0.257347, #4:0.269143, #5:0.321208, #6:0.231207, #7:0.228581, #8:0.283973, #9:0.250132, #10:0.297113, #11:0.234032, #12:0.312706, #13:0.241465, )} [pixels]"></debug>
+      </intrinsic>
+    </item>
+  </data>
+</golem>

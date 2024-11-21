@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<golem>
+  <data>
+    <item cluster_index="0" config_index="30" handler="ContactQuery+ContactQuery_RobotPUT3F" label="test" prefix="-item-test-1" query=".query"></item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="test" path_position="1" prefix="-item-test-2" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+    <item cluster_index="0" config_index="6" handler="ContactQuery+ContactQuery_RobotPUT3F" label="test" prefix="-item-test-3" query=".query"></item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="test" path_position="1" prefix="-item-test-4" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+    <item cluster_index="0" config_index="2" handler="ContactQuery+ContactQuery_RobotPUT3F" label="test" prefix="-item-test-5" query=".query"></item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="test" path_position="1" prefix="-item-test-6" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+    <item cluster_index="0" config_index="0" handler="ContactQuery+ContactQuery_RobotPUT3F" label="test" prefix="-item-test-7" query=".query"></item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="test" path_position="1" prefix="-item-test-8" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+    <item cluster_index="0" config_index="0" handler="ContactQuery+ContactQuery_RobotPUT3F" label="test" prefix="-item-test-9" query=".query"></item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="test" path_position="1" prefix="-item-test-10" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+    <item cluster_index="0" config_index="0" handler="ContactQuery+ContactQuery_RobotPUT3F" label="test" prefix="-item-test-11" query=".query"></item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="test" path_position="0" prefix="-item-test-12" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+    <item cluster_index="0" config_index="2" handler="ContactQuery+ContactQuery_RobotPUT3F" label="test" prefix="-item-test-13" query=".query"></item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="test" path_position="0.8" prefix="-item-test-14" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+    <item cluster_index="0" config_index="7" handler="ContactQuery+ContactQuery_RobotPUT3F" label="test" prefix="-item-test-15" query=".query"></item>
+    <item handler="Trajectory+Trajectory_RobotPUT3F" label="test" path_position="1" prefix="-item-test-16" waypoint=".wp">
+      <contact path_interpol="1" path_waypoint="18446744073709551615"></contact>
+      <frame_ctrl_map></frame_ctrl_map>
+      <manifold>
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold>
+      <manifold_global enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_global>
+      <manifold_local enabled="0">
+        <frame m11="1" m12="0" m13="0" m21="0" m22="1" m23="0" m31="0" m32="0" m33="1" v1="0" v2="0" v3="0"></frame>
+        <frame_dev v1="0" v2="0" v3="0" w1="0" w2="0" w3="0"></frame_dev>
+      </manifold_local>
+    </item>
+  </data>
+</golem>
